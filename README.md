@@ -9,6 +9,7 @@
 ### Programming Languajes:
 ![Static Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
