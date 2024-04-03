@@ -1,7 +1,7 @@
 ![header image](header.png)
 ### About me:  
 - 👨‍💻 Continuously expanding my development skills since 2021.
-- 🎓 Multiplatform Application Development (DAM) and Web Application Development (DAW) at IFP.
+- 🎓 Multiplatform Application Development (DAM) and Web Application Development (DAW).
 - 📚 Passionate about backend development and deeply interested in native development with Swift for Apple's ecosystem.
 - 📫 Contact me via [email](mailto:cristianbm2095@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/cristian-bermúdez-martínez-b623a4129).
 
