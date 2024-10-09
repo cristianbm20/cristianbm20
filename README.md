@@ -19,7 +19,6 @@
 ### Frameworks & Libraries:
 ![Static Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white)
 
 ---
 ### Databases & ORMs:
